@@ -46,21 +46,24 @@
     }
 
     #poster__first,#poster__first3,#poster__first4 {
-        width: 60px;
+        width: 150px;
         height: auto;
         margin: 0;
-        margin-top: -55px;
-        margin-left: 30px;
+        margin-top: -85px;
+        margin-left: -20px;
     }
 
     #poster__first2 {
-        width: 80px;
+        width: 130px;
         height: auto;
         margin: 0;
-        margin-top: -40px;
-        margin-left: 30px;
+        margin-top: -60px;
+        margin-left: 15px;
     }
     
+    .horizontal1{
+        margin-bottom: 20px;
+    }
     .text__poste__macdon{
         height: 100%;
         padding-top: 40px;

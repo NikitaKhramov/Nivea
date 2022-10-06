@@ -291,7 +291,6 @@ span+span {
     right: 10;
     bottom: 0;
     align-items: center;
-    border-radius: 0 0 8px 8px;
 }
 
 .RR__poster {
@@ -322,18 +321,18 @@ span+span {
 }
 
 #poster__first, #poster__first3, #poster__first4{
-    width: 100px;
+    width: 200px;
     height: auto;
     margin-top: -80px;
-    margin-left: 30px;
+    margin-left: 10px;
     position: relative;
     left: 0;
     animation-duration: 1s;
 }
 #poster__first2{
-    width: 130px;
+    width: 180px;
     height: auto;
-    margin-top: -20px;
+    margin-top: -50px;
     margin-left: 30px;
     position: relative;
     left: 0;
@@ -356,7 +355,7 @@ span+span {
 
 .pulse-button {
     width: 100%;
-    bottom: -20px;
+    bottom: -10px;
     position: relative;
     background-color: #fff;
     text-align: center;
@@ -366,6 +365,7 @@ span+span {
 }
 
 .order__button {
+    margin-top: 10px;
     border-radius: 8px;
     color: #494949;
     font-size: 12px;
