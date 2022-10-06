@@ -322,7 +322,7 @@ span+span {
 }
 
 #poster__first, #poster__first3, #poster__first4{
-    width: 100px;
+    width: 90px;
     height: auto;
     margin-top: -20px;
     margin-left: 30px;
@@ -331,7 +331,7 @@ span+span {
     animation-duration: 1s;
 }
 #poster__first2{
-    width: 150px;
+    width: 130px;
     height: auto;
     margin-top: -20px;
     margin-left: 30px;
