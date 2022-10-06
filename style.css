@@ -321,15 +321,25 @@ span+span {
     cursor: pointer;
 }
 
-#poster__first,#poster__first2, #poster__first3, #poster__first4{
-    width: 180px;
+#poster__first, #poster__first3, #poster__first4{
+    width: 100px;
     height: auto;
-    margin-top: 45px;
-    margin-left: 10px;
+    margin-top: -20px;
+    margin-left: 30px;
     position: relative;
     left: 0;
     animation-duration: 1s;
 }
+#poster__first2{
+    width: 150px;
+    height: auto;
+    margin-top: -20px;
+    margin-left: 30px;
+    position: relative;
+    left: 0;
+    animation-duration: 1s;
+}
+
 .text__poste__macdon{
     height: 100%;
     padding-top: 40px;
